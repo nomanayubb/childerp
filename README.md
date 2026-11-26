@@ -9,7 +9,7 @@ Everything lives in this folder, including the database (`data/erp.db`).
 
 ```powershell
 npm install        # first time only
-npm run dev        # development: http://localhost:3000
+npm run dev        # development: http://localhost:9500
 ```
 
 Production: `npm run build` then `npm start`.
